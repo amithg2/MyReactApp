@@ -1,0 +1,13 @@
+.ManufacterPage {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.manufacter {
+    width: 80vw; 
+    height: 50px;
+    display: flex;
+    flex-direction: column;
+
+}
